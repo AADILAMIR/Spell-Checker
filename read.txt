@@ -1,0 +1,7 @@
+In this lab we have learned about Z-transform. 
+We also came to know that when we use ztrans command then in which our first parameter should be signal for which we perform Z transform and he second should always be he independent variable otherwise we get incorrect result.
+There exists a region of convergence for which the z transform is finite for a range of z values.
+In this lab we implement different properties of Z transforms and plot them on MATLAB to verify our results.
+We also perform convolution on two signals and then take their Z-transform according to our task.
+In this lab we learn about IIR and FIR. We have implemented both in our lab tasks using mathematical equation and we perform them theoretically also.
+We also learnt how to manipulate and design digital filters.  
